@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gilangmukharom
-- 👀 I’m interested in FullStack Developer
-- 🌱 I’m currently learning JavaScript, PHP, MySQL
+- 👀 I’m interested in FrontEnd Developer
+- 🌱 I’m currently learning React JS, Typescript
 
 <!---
 gilangmukharom/gilangmukharom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
