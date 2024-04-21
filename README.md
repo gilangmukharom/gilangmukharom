@@ -1,7 +1,6 @@
-
 👋 Hey there, I'm Gilang Mukharom!
 👀 Passionate about FrontEnd Development
-🌱 Currently diving deep into React JS and exploring Typescript
+🌱  Currently immersing myself in the world of React JS and sharpening my skills with Typescript. Let's build something awesome together!
 
 <!---
 gilangmukharom/gilangmukharom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
