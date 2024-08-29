@@ -19,10 +19,12 @@
 ### 🛠️ Tools & Technologies
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Code-Visual_Studio_Code-blue?logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
-  <!-- Add more tools or languages you use regularly -->
+  <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/raw/v2.16.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 </p>
 
 ### 🌍 Connect with Me
