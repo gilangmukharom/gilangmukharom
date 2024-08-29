@@ -12,13 +12,8 @@
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gilangmukharom&show_icons=true&theme=radical" alt="gilangmukharom's GitHub stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilangmukharom&theme=radical" alt="gilangmukharom's streak stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilangmukharom&layout=compact&theme=radical" alt="gilangmukharom's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilangmukharom&layout=compact&theme=radical" alt="gilangmukharom's top languages" style="width: 48%; height: 150px; object-fit: cover;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilangmukharom&theme=radical" alt="gilangmukharom's streak stats" style="width: 48%; height: 150px; object-fit: cover;" />
 </p>
 
 ### 🛠️ Tools & Technologies
