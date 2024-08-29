@@ -9,6 +9,18 @@
 - 🎯 My goal is to create engaging, responsive, and performant web applications.
 - 💬 Let's connect and collaborate on something amazing!
 
+### 📊 GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gilangmukharom&show_icons=true&theme=radical" alt="gilangmukharom's GitHub stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilangmukharom&theme=radical" alt="gilangmukharom's streak stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilangmukharom&layout=compact&theme=radical" alt="gilangmukharom's top languages" />
+</p>
+
 ### 🛠️ Tools & Technologies
 
 <p align="left">
@@ -18,8 +30,11 @@
   <!-- Add more tools or languages you use regularly -->
 </p>
 
+### 🌍 Connect with Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/gilangmukharom/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/gilangmukharom" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:gilangmukharom@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
   <!-- Add other social links if any -->
 </p>
